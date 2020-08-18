@@ -1,4 +1,4 @@
-[![](Banner.jpg)][1]
+[![Hello World 👋](https://raw.githubusercontent.com/RichardKrikler/richardkrikler/master/banner.jpg)][1]
 
 # Hello World 👋
 
