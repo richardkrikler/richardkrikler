@@ -28,5 +28,5 @@ learning benefits for me and the exploring of new skills, mostly in the Web-Deve
 [1]: https://richardkrikler.com
 [2]: https://www.htl.rennweg.at
 [3]: https://twitter.com/richardkrikler
-[4]: https://richardkrikler.com/en/contact
+[4]: https://richardkrikler.com/contact
 [5]: https://www.linkedin.com/in/richardkrikler
