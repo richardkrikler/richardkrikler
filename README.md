@@ -11,7 +11,7 @@ learning benefits for me and the exploring of new skills, mostly in the Web-Deve
 ## Get in touch
 
 - Twitter: [twitter.com/richardkrikler][3]
-- Contact-Page: [richardkrikler.com/contact][4]
+- Email: [kriklerrichard@outlook.com][4]
 - LinkedIn: [linkedin.com/in/richardkrikler][5]
 
 ## My Stats
@@ -28,5 +28,5 @@ learning benefits for me and the exploring of new skills, mostly in the Web-Deve
 [1]: https://richardkrikler.com
 [2]: https://www.htl.rennweg.at
 [3]: https://twitter.com/richardkrikler
-[4]: https://richardkrikler.com/contact
+[4]: mailto:kriklerrichard@outlook.com
 [5]: https://www.linkedin.com/in/richardkrikler
