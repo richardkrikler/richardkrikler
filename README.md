@@ -17,7 +17,7 @@ learning benefits for me and the exploring of new skills, mostly in the Web-Deve
 ## My Stats
 
 <a href="https://github.com/RichardKrikler"><img style="padding-right: 5px;" align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardkrikler&bg_color=1d1f21&title_color=fefefe&text_color=c8c9cb"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardkrikler&bg_color=1d1f21&title_color=fefefe&text_color=c8c9cb&layout=compact"
         alt="Richard's github stats">
     </img></a>
 <a href="https://github.com/RichardKrikler"><img style="padding-left: 5px;" align="center"
