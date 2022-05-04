@@ -13,7 +13,7 @@ I'm Richard Krikler, an IT student at [HTL Rennweg][2].
 
 
 
-[1]: https://richardkrikler.com
+[1]: https://richardkrikler.at
 [2]: https://www.htl.rennweg.at
 [3]: https://twitter.com/richardkrikler
 [4]: mailto:kriklerrichard@outlook.com
