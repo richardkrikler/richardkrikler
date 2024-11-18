@@ -2,7 +2,7 @@
 
 # Hello World 👋
 
-I'm Richard Krikler, an IT student at [HTL Rennweg][2].
+I'm Richard Krikler, Web Developer at [plan2net GmbH][2].
 
 
 ## Get in touch
@@ -14,7 +14,7 @@ I'm Richard Krikler, an IT student at [HTL Rennweg][2].
 
 
 [1]: https://richardkrikler.at
-[2]: https://www.htl.rennweg.at
+[2]: https://www.plan2.net
 [3]: https://twitter.com/richardkrikler
 [4]: mailto:hello@richardkrikler.at
 [5]: https://www.linkedin.com/in/richardkrikler
