@@ -7,14 +7,16 @@ I'm Richard Krikler, Web Developer at [plan2net GmbH][2].
 
 ## Get in touch
 
-- Twitter: [twitter.com/richardkrikler][3]
+- Web: [richardkrikler.at][6]
+- Bluesky: [@richardkrikler.at][3]
+- LinkedIn: [@richardkrikler][5]
 - Email: [hello@richardkrikler.at][4]
-- LinkedIn: [linkedin.com/in/richardkrikler][5]
 
 
 
 [1]: https://richardkrikler.at
 [2]: https://www.plan2.net
-[3]: https://twitter.com/richardkrikler
+[3]: https://bsky.app/profile/richardkrikler.at
 [4]: mailto:hello@richardkrikler.at
 [5]: https://www.linkedin.com/in/richardkrikler
+[6]: https://richardkrikler.at
